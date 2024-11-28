@@ -12,3 +12,4 @@ c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\obj\Debug\net
 c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\obj\Debug\net8.0\NäsanöverE02.pdb
 c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\obj\Debug\net8.0\NäsanöverE02.genruntimeconfig.cache
 c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\obj\Debug\net8.0\ref\NäsanöverE02.dll
+c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\obj\Debug\net8.0\NäsanöverE02.sourcelink.json
