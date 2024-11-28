@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NäsanöverE02/1.0.0": {
+        "runtime": {
+          "NäsanöverE02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NäsanöverE02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

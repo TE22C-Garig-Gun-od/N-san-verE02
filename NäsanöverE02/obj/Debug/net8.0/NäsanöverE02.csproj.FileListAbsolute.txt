@@ -1,0 +1,14 @@
+c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\bin\Debug\net8.0\NäsanöverE02.exe
+c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\bin\Debug\net8.0\NäsanöverE02.deps.json
+c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\bin\Debug\net8.0\NäsanöverE02.runtimeconfig.json
+c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\bin\Debug\net8.0\NäsanöverE02.dll
+c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\bin\Debug\net8.0\NäsanöverE02.pdb
+c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\obj\Debug\net8.0\NäsanöverE02.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\obj\Debug\net8.0\NäsanöverE02.AssemblyInfoInputs.cache
+c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\obj\Debug\net8.0\NäsanöverE02.AssemblyInfo.cs
+c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\obj\Debug\net8.0\NäsanöverE02.csproj.CoreCompileInputs.cache
+c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\obj\Debug\net8.0\NäsanöverE02.dll
+c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\obj\Debug\net8.0\refint\NäsanöverE02.dll
+c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\obj\Debug\net8.0\NäsanöverE02.pdb
+c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\obj\Debug\net8.0\NäsanöverE02.genruntimeconfig.cache
+c:\Users\Gunod.garig\Documents\prog2\NäsanöverE02\NäsanöverE02\obj\Debug\net8.0\ref\NäsanöverE02.dll
